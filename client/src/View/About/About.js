@@ -6,6 +6,7 @@ function About () {
     return(
         <>
         <div>This is about page </div>
+        <h1 className="heading">Hello world</h1>
         
         </>
     )

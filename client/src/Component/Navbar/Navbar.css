@@ -1,0 +1,120 @@
+.bg{
+    background-color:  #fff5cc;
+}
+.navbrand1{
+    color: #b30000;
+    font-size: 30px;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.navbrand2{
+    color: #004080 ;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+}
+.navbrand3{
+    color:   #cc6600;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ margin-right: 50px;
+}
+#basic-nav-dropdown{
+    color:    #004080;
+    font-size: 20px;
+    margin-left: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-menu{
+    color:    #004080;
+    font-size: 20px;
+    margin-left: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.login{
+ margin-left: 550px;
+    font-size: 23px;
+    color:  #b30000;
+    font-weight: bolder;
+}
+.Signup{
+   margin-left: 27px;
+    font-size: 23px;
+    color: #b30000;
+    font-weight: bolder;
+}
+
+.nav-menu:hover{
+    text-decoration: underline;
+    color: #b30000;
+}
+.login:hover{
+    color: #004080 ;
+    text-decoration: underline;
+}
+.Signup:hover{
+    color: #004080 ;
+    text-decoration: underline;
+
+}
+#basic-nav-dropdown:hover{
+    color: #b30000;
+}
+@media screen and (min-width:320px ) and (max-width:480px){
+    .login{
+        margin-left: 30px;
+    }
+    .nav-menu{
+        margin-left: 30px;
+    }
+    #basic-nav-dropdown{
+        margin-left: 30px;
+    }
+}
+@media screen and (min-width:481px ) and (max-width:768px){
+    .login{
+        margin-left: 30px;
+    }
+    .nav-menu{
+        margin-left: 30px;
+    }
+    #basic-nav-dropdown{
+        margin-left: 30px;
+    }
+}
+@media screen and (min-width:769px ) and (max-width:991px){
+    .login{
+        margin-left: 30px;
+    }
+    .nav-menu{
+        margin-left: 30px;
+    }
+    #basic-nav-dropdown{
+        margin-left: 30px;
+    }
+   
+}
+@media screen and (min-width:992px ) and (max-width:1024px){
+    .login{
+        margin-left: 190px;
+    }
+}@media screen and (min-width:1024px ) and (max-width:1040px){
+    .login{
+        margin-left: 19vw;
+    }
+}@media screen and (min-width:1041px ) and (max-width:1190px){
+    .login{
+        margin-left: 20vw;
+    }
+}
+@media screen and (min-width:1191px ) and (max-width:1200px){
+    .login{
+        margin-left: 25vw;
+    }
+}
+@media screen and (min-width:1201px ) and (max-width:1400px){
+    .login{
+        margin-left: 31vw;
+    }
+}
